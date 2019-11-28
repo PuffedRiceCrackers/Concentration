@@ -17,6 +17,7 @@ Making this, I learned...
 * Protocol
 * Closures
 
-![enter image description here](https://i.imgur.com/hpKpAfC.gif)
-
+<p align="center">
+<img src="https://i.imgur.com/hpKpAfC.gif" width="350" ></img>
+</p>
 
